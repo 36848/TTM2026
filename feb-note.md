@@ -8,3 +8,5 @@
 4.font 字体 > 3.0
 
 5.sign not cross the road标志标签 - 请勿过马路
+
+6. End of Roadworks sign located across the junction
