@@ -26,3 +26,7 @@
     Visibility requirement for TMO: minimum 60 m.
     
     sign != 20/40m have a note for - To ensure sign placement visibility & lateral clearances are met the cumulative distance has been increased
+
+12.TMO location more safe on the road/verge when builod out 
+
+13. 0.5m safe zone signals shoub be on the green work area  (the loction
