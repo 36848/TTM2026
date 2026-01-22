@@ -10,3 +10,18 @@
 5.sign not cross the road标志标签 - 请勿过马路
 
 6. End of Roadworks sign located across the junction
+
+7. no footpath no frence
+
+8. Barrier Boards隔离板
+
+9. note space 5m * 5m
+
+10. <6m have a big note for all stop & marshall & shuttle
+
+11. for Speed Limit – 60 km/h
+    
+    add  Site Risk Assessment Form, the original speed limit of 80 km/h is reduced to 60 km/h
+    
+    Visibility requirement for TMO: minimum 60 m.
+    sign != 20/40m have a note for - To ensure sign placement visibility & lateral clearances are met the cumulative distance has been increased
