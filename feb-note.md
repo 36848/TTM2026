@@ -32,3 +32,7 @@
 13. 0.5m safe zone signals shoub be on the green work area  (the loction
 
 14. pedestrians corss to left behend fence
+
+15. single lane * 2 (with cone) &&&&& two-way road (no cone
+
+
