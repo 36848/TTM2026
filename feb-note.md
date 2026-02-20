@@ -35,4 +35,6 @@
 
 15. single lane * 2 (with cone) &&&&& two-way road (no cone
 
+16.  50 km/h ctape xm / *3*m 
+
 
