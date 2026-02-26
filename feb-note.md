@@ -35,6 +35,8 @@
 
 15. single lane * 2 (with cone) &&&&& two-way road (no cone
 
-16.  50 km/h tape xm / **3m** 
+16.  50 km/h tape xm / **3m**
+
+17.  45 degree all is 1 space
 
 
