@@ -7,3 +7,5 @@ Linetype Scale = 控制虚线、点划线的“间距大小”
 数值越大，虚线间距越大
 
 2.找到黑色块所在图层 LAYDEL 点击要删除的图层 
+
+### C:\Users\User\AppData\Local\Temp
