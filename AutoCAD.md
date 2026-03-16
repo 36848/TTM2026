@@ -9,3 +9,6 @@ Linetype Scale = 控制虚线、点划线的“间距大小”
 2.找到黑色块所在图层 LAYDEL 点击要删除的图层 
 
 ### C:\Users\User\AppData\Local\Temp
+
+
+去 AutoCAD LT 加载你的 .LSP 文件 - APPLOAD
