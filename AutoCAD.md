@@ -11,7 +11,7 @@ Linetype Scale = 控制虚线、点划线的“间距大小”
 ### C:\Users\User\AppData\Local\Temp
 
 
-去 AutoCAD LT 加载你的 .LSP 文件 - APPLOAD
+去 AutoCAD LT 加载你的 .LSP 文件 - APPLOAD/ Contents… Startup Suite
 
 
 使用命令栏冻结图层（LAYFRZ）,用鼠标点选你想冻结的对象
