@@ -1,3 +1,3 @@
 - chaged file REV0 to REV1
 - linght map : clear road on map
-- 5-6 buldings,car to sign lotsd of people
+- 5-6 buldings,car to sign lots of people
