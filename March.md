@@ -1,3 +1,4 @@
 - chaged file REV0 to REV1
 - linght map : clear road on map
 - 5-6 buldings,car to sign lots of people
+- barrier / 1.5 , other sider is traffic cone
