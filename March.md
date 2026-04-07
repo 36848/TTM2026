@@ -2,3 +2,5 @@
 - linght map : clear road on map
 - 5-6 buldings,car to sign lots of people
 - barrier / 1.5 , other sider is traffic cone
+- cycle close form datum 10m
+- 20 gap form cone
