@@ -4,3 +4,5 @@
 - barrier / 1.5 , other sider is traffic cone
 - cycle close form datum 10m
 - 20 gap form cone
+- text same size
+- 60km/h add more distance / 20 40 can only choose one
