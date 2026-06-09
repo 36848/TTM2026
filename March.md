@@ -11,3 +11,4 @@
 - Changes as per L.B (DNCF):client name company name
 - safety barrier no need frence
 - REPLY ALL EMAIL
+- 60kh/m chnage distance to 50 100
