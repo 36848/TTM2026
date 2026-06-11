@@ -12,4 +12,5 @@
 - safety barrier no need frence
 - REPLY ALL EMAIL
 - 60kh/m chnage distance to 50 100
-- Shuttle Lane: Main Width 3m
+- Shuttle Lane: Min Width 3m
+- TMO on ahaed junction; after junction 10/3m cone
