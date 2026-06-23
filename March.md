@@ -14,3 +14,7 @@
 - 60kh/m chnage distance to 50 100
 - Shuttle Lane: Min Width 3m
 - TMO on ahaed junction; after junction 10/3m cone
+- max shuttle 500m
+- visability just add xm(eg add 90m
+- hard should 2.3m/2.5m width
+- overtaken not use in 60kh/m
