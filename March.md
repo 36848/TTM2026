@@ -18,3 +18,4 @@
 - visability just add xm(eg add 90m
 - hard should 2.3m/2.5m width
 - overtaken not use in 60kh/m
+- sign start from STOP line
