@@ -4,3 +4,6 @@
 - cone line : 0 for line , 0.2 for cone line
 - all mussgard is type A
 - pededtriian crossing point  visiblity in guidebook p113
+- 30km/h = 25
+- 50km/h = 45
+- 60km/h = 60
