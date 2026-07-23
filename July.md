@@ -12,3 +12,5 @@
 - 12
 - 左右
 - =============
+- Hatch show angle/ make then not double
+- 
