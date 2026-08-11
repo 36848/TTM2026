@@ -18,3 +18,7 @@ Linetype Scale = 控制虚线、点划线的“间距大小”
 
 
 使用 AutoCAD 内置功能-选择 Import（导入）/选择 PDF/会自动转换成 DWG
+
+
+
+PSLTSCALE = 0(use in layout, make  model = layout
