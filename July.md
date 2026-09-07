@@ -13,4 +13,6 @@
 - 左右
 - =============
 - Hatch show angle/ make then not double
-- 
+- cone not on the footpath, on verg
+- Accorss Section
+- 100km/h detour 100/200/400
