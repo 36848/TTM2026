@@ -16,3 +16,8 @@
 - cone not on the footpath, on verg
 - Accorss Section
 - 100km/h detour 100/200/400
+- cone never on footpath / on verge/sign block people
+- sign in side cone
+- shuttle all 45
+- taper only for lead in, not out
+- detour where they go
