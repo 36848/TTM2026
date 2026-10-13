@@ -21,3 +21,4 @@
 - shuttle all 45
 - taper only for lead in, not out
 - detour where they go
+- level 2 off-set 3.65 taper
